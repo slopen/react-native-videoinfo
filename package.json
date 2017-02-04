@@ -2,7 +2,6 @@
   "name": "react-native-videoinfo",
   "version": "0.1.0",
   "description": "Get gallery video info from React Native module",
-  "main": "react-native-ffmpeg.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/slopen/react-native-videoinfo"
